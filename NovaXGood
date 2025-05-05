@@ -3,7 +3,7 @@
 ]]
 -- Ui
  
-local Library = loadstring(Game:HttpGet("https://raw.githubusercontent.com/bloodball/-back-ups-for-libs/main/wizard"))()
+local Library = loadstring(Game:HttpGet("https://raw.githubusercontent.com/h4ntoru22/NovaXTF/refs/heads/main/NovaXGood"))()
  
 -- Window
  
