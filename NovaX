@@ -1,1 +1,123 @@
-local key=[[yooohellobro]];zBWhUTqBrrCmqpJuKVOrerThkBxEXOGmqbQUEtvOCjtKeqUMuNBwVguhrgwCzXchwaRDZAcZloIzMVsZaBgefKPqjcJhHzAnHiReOLpNrnkNfpwaNaNtuzUwmeqCiIwuz="Encrypt By Yasu";TdosLWnORzTIUswzvilUYYuQniUXaeDnRsbKceQiHxpDVWtIYvGrRpNxLqHVOtmNiKNYQXlEShkuBAjcSRUKwvItqXDXssyAZKfyXFbODkfcaLJaxaJcVPDukOymbPcE=zBWhUTqBrrCmqpJuKVOrerThkBxEXOGmqbQUEtvOCjtKeqUMuNBwVguhrgwCzXchwaRDZAcZloIzMVsZaBgefKPqjcJhHzAnHiReOLpNrnkNfpwaNaNtuzUwmeqCiIwu;GBLovtHiCsdQiWyUyXZWumbVAiqdSpvobcUmhxSzpxeeRGQpBwwnLcEyKgmymqapfukjTguCdiPMcEYlGSGVhYyZEkESYiReRHqYYkVikHRglcLxoSiaHGhqPPYbzunB=TdosLWnORzTIUswzvilUYYuQniUXaeDnRsbKceQiHxpDVWtIYvGrRpNxLqHVOtmNiKNYQXlEShkuBAjcSRUKwvItqXDXssyAZKfyXFbODkfcaLJaxaJcVPDukOymbPcE;JWerFlwyIRcbPHaAjoSPZPNikcGOCEzPDSNhTrNTsdtEEjqGCfguughQCJiNcdBxCaosdTqvTKoavenGkoLwOnPqbtyQJoxSVZYsQOBrpmilWewyDwyxwEwKnXItCsRU=GBLovtHiCsdQiWyUyXZWumbVAiqdSpvobcUmhxSzpxeeRGQpBwwnLcEyKgmymqapfukjTguCdiPMcEYlGSGVhYyZEkESYiReRHqYYkVikHRglcLxoSiaHGhqPPYbzunB;gypwwXmTbCUEwtqdBtZCBomTyBXaCzMgDuBfvjeLsUvFkLDKPSsUwtWUMAVGkDoSaQElctRtOoYLvAnzYPqfeZMFnefOZupMiwtqkKrKIoxHJcGNnCDvLrMvtpxJXJLR=JWerFlwyIRcbPHaAjoSPZPNikcGOCEzPDSNhTrNTsdtEEjqGCfguughQCJiNcdBxCaosdTqvTKoavenGkoLwOnPqbtyQJoxSVZYsQOBrpmilWewyDwyxwEwKnXItCsRU;JGszWuwgsESIMVoCSeIrDlOPLUnWUbgjASjwEqaxzRKaAzMnzJqYFyTzKqGeFeSpHMajlAPLHMoCzUUCyTNhTyhnZPaciCefIRXqUcVUJsfySEKOYiMcuRYcGnqugNBP=gypwwXmTbCUEwtqdBtZCBomTyBXaCzMgDuBfvjeLsUvFkLDKPSsUwtWUMAVGkDoSaQElctRtOoYLvAnzYPqfeZMFnefOZupMiwtqkKrKIoxHJcGNnCDvLrMvtpxJXJLR;_ENV={string=string,table=table,math=math,pairs=pairs,load=load,print=print};zBWhUTqBrrCmqpJuKVOrerThkBxEXOGmqbQUEtvOCjtKeqUMuNBwVguhrgwCzXchwaRDZAcZloIzMVsZaBgefKPqjcJhHzAnHiReOLpNrnkNfpwaNaNtuzUwmeqCiIwu="TdosLWnORzTIUswzvilUYYuQniUXaeDnRsbKceQiHxpDVWtIYvGrRpNxLqHVOtmNiKNYQXlEShkuBAjcSRUKwvItqXDXssyAZKfyXFbODkfcaLJaxaJcVPDukOymbPcE";TdosLWnORzTIUswzvilUYYuQniUXaeDnRsbKceQiHxpDVWtIYvGrRpNxLqHVOtmNiKNYQXlEShkuBAjcSRUKwvItqXDXssyAZKfyXFbODkfcaLJaxaJcVPDukOymbPcE="zBWhUTqBrrCmqpJuKVOrerThkBxEXOGmqbQUEtvOCjtKeqUMuNBwVguhrgwCzXchwaRDZAcZloIzMVsZaBgefKPqjcJhHzAnHiReOLpNrnkNfpwaNaNtuzUwmeqCiIwu";GBLovtHiCsdQiWyUyXZWumbVAiqdSpvobcUmhxSzpxeeRGQpBwwnLcEyKgmymqapfukjTguCdiPMcEYlGSGVhYyZEkESYiReRHqYYkVikHRglcLxoSiaHGhqPPYbzunB={106,104,103,114,90,74,75,87,110,106,110,90,110,100,107,116,89,89,114,102,85,106,99,85,67,85,79,111,81,109,71,99,73,79,113,79,106,70,109,82,86,81,105,80,119,120,109,109,117,112,79,70,109,87,79,75,67,115,66,79,90,116,117,102,102,77,110,117,105,74,81,101,69,122,110,113,68,101,101,111,79,115,111,97,106,72,89,88,88,104,102,81,67,70,110,65,79,84,113,108,114,122,87,82,84,99,74,103,119,74,90,70,111,100,75,71,103,113,117,65,66,80,113,116,97,67,90,84};function xor(t)local ciphertext="";for i=1,#TdosLWnORzTIUswzvilUYYuQniUXaeDnRsbKceQiHxpDVWtIYvGrRpNxLqHVOtmNiKNYQXlEShkuBAjcSRUKwvItqXDXssyAZKfyXFbODkfcaLJaxaJcVPDukOymbPcE do local byte=string.byte(TdosLWnORzTIUswzvilUYYuQniUXaeDnRsbKceQiHxpDVWtIYvGrRpNxLqHVOtmNiKNYQXlEShkuBAjcSRUKwvItqXDXssyAZKfyXFbODkfcaLJaxaJcVPDukOymbPcE, i);local quibit=string.byte(zBWhUTqBrrCmqpJuKVOrerThkBxEXOGmqbQUEtvOCjtKeqUMuNBwVguhrgwCzXchwaRDZAcZloIzMVsZaBgefKPqjcJhHzAnHiReOLpNrnkNfpwaNaNtuzUwmeqCiIwu,(i-1)%#zBWhUTqBrrCmqpJuKVOrerThkBxEXOGmqbQUEtvOCjtKeqUMuNBwVguhrgwCzXchwaRDZAcZloIzMVsZaBgefKPqjcJhHzAnHiReOLpNrnkNfpwaNaNtuzUwmeqCiIwu+1);ciphertext=ciphertext..string.char(bit.bxor(byte,quibit));end;return ciphertext;end;bit={bxor=function(a,b)local r,m=0,1;while a>0 and b>0 do local aa,bb=a%2,b%2;r=r+m*((aa+bb)%2);m=m*2;a=math.floor(a/2);b=math.floor(b/2) end;if a>0 then r=r+m*a end;if b>0 then r=r+m*b end;return r;end};xor(GBLovtHiCsdQiWyUyXZWumbVAiqdSpvobcUmhxSzpxeeRGQpBwwnLcEyKgmymqapfukjTguCdiPMcEYlGSGVhYyZEkESYiReRHqYYkVikHRglcLxoSiaHGhqPPYbzunB)zBWhUTqBrrCmqpJuKVOrerThkBxEXOGmqbQUEtvOCjtKeqUMuNBwVguhrgwCzXchwaRDZAcZloIzMVsZaBgefKPqjcJhHzAnHiReOLpNrnkNfpwaNaNtuzUwmeqCiIwuz="Encrypt By Yasu";_ENV={string=string,table=table,math=math,pairs=pairs,load=load,print=print};JWerFlwyIRcbPHaAjoSPZPNikcGOCEzPDSNhTrNTsdtEEjqGCfguughQCJiNcdBxCaosdTqvTKoavenGkoLwOnPqbtyQJoxSVZYsQOBrpmilWewyDwyxwEwKnXItCsRU="TdosLWnORzTIUswzvilUYYuQniUXaeDnRsbKceQiHxpDVWtIYvGrRpNxLqHVOtmNiKNYQXlEShkuBAjcSRUKwvItqXDXssyAZKfyXFbODkfcaLJaxaJcVPDukOymbPcE";TdosLWnORzTIUswzvilUYYuQniUXaeDnRsbKceQiHxpDVWtIYvGrRpNxLqHVOtmNiKNYQXlEShkuBAjcSRUKwvItqXDXssyAZKfyXFbODkfcaLJaxaJcVPDukOymbPcE="JWerFlwyIRcbPHaAjoSPZPNikcGOCEzPDSNhTrNTsdtEEjqGCfguughQCJiNcdBxCaosdTqvTKoavenGkoLwOnPqbtyQJoxSVZYsQOBrpmilWewyDwyxwEwKnXItCsRU";gypwwXmTbCUEwtqdBtZCBomTyBXaCzMgDuBfvjeLsUvFkLDKPSsUwtWUMAVGkDoSaQElctRtOoYLvAnzYPqfeZMFnefOZupMiwtqkKrKIoxHJcGNnCDvLrMvtpxJXJLR={98,122,81,66,81,79,88,84,67,85,83,83,114,85,87,100,99,87,83,65,70,99,122,79,111,88,86,65,83,68,105,76,106,109,68,73,85,83,80,81,78,97,119,99,90,77,117,121,66,86,73,102,122,107,101,85,68,85,70,66,71,116,108,84,101,115,72,120,82,81,109,100,80,105,79,68,74,77,75,112,102,112,119,119,101,104,116,113,107,66,66,101,80,71,97,89,107,105,90,121,72,68,82,87,119,65,98,107,86,69,115,122,81,120,68,101,82,98,82,79,100,120,111,103,67,101,98,87};function xor(t)local ciphertext="";for i=1,#TdosLWnORzTIUswzvilUYYuQniUXaeDnRsbKceQiHxpDVWtIYvGrRpNxLqHVOtmNiKNYQXlEShkuBAjcSRUKwvItqXDXssyAZKfyXFbODkfcaLJaxaJcVPDukOymbPcE do local byte=string.byte(TdosLWnORzTIUswzvilUYYuQniUXaeDnRsbKceQiHxpDVWtIYvGrRpNxLqHVOtmNiKNYQXlEShkuBAjcSRUKwvItqXDXssyAZKfyXFbODkfcaLJaxaJcVPDukOymbPcE, i);local quibit=string.byte(JWerFlwyIRcbPHaAjoSPZPNikcGOCEzPDSNhTrNTsdtEEjqGCfguughQCJiNcdBxCaosdTqvTKoavenGkoLwOnPqbtyQJoxSVZYsQOBrpmilWewyDwyxwEwKnXItCsRU,(i-1)%#JWerFlwyIRcbPHaAjoSPZPNikcGOCEzPDSNhTrNTsdtEEjqGCfguughQCJiNcdBxCaosdTqvTKoavenGkoLwOnPqbtyQJoxSVZYsQOBrpmilWewyDwyxwEwKnXItCsRU+1);ciphertext=ciphertext..string.char(bit.bxor(byte,quibit));end;return ciphertext;end;bit={bxor=function(a,b)local r,m=0,1;while a>0 and b>0 do local aa,bb=a%2,b%2;r=r+m*((aa+bb)%2);m=m*2;a=math.floor(a/2);b=math.floor(b/2) end;if a>0 then r=r+m*a end;if b>0 then r=r+m*b end;return r;end};xor(gypwwXmTbCUEwtqdBtZCBomTyBXaCzMgDuBfvjeLsUvFkLDKPSsUwtWUMAVGkDoSaQElctRtOoYLvAnzYPqfeZMFnefOZupMiwtqkKrKIoxHJcGNnCDvLrMvtpxJXJLR)zBWhUTqBrrCmqpJuKVOrerThkBxEXOGmqbQUEtvOCjtKeqUMuNBwVguhrgwCzXchwaRDZAcZloIzMVsZaBgefKPqjcJhHzAnHiReOLpNrnkNfpwaNaNtuzUwmeqCiIwuz="Encrypt By Yasu";_ENV={string=string,table=table,math=math,pairs=pairs,load=load,print=print};JGszWuwgsESIMVoCSeIrDlOPLUnWUbgjASjwEqaxzRKaAzMnzJqYFyTzKqGeFeSpHMajlAPLHMoCzUUCyTNhTyhnZPaciCefIRXqUcVUJsfySEKOYiMcuRYcGnqugNBP="GBLovtHiCsdQiWyUyXZWumbVAiqdSpvobcUmhxSzpxeeRGQpBwwnLcEyKgmymqapfukjTguCdiPMcEYlGSGVhYyZEkESYiReRHqYYkVikHRglcLxoSiaHGhqPPYbzunB";GBLovtHiCsdQiWyUyXZWumbVAiqdSpvobcUmhxSzpxeeRGQpBwwnLcEyKgmymqapfukjTguCdiPMcEYlGSGVhYyZEkESYiReRHqYYkVikHRglcLxoSiaHGhqPPYbzunB="JGszWuwgsESIMVoCSeIrDlOPLUnWUbgjASjwEqaxzRKaAzMnzJqYFyTzKqGeFeSpHMajlAPLHMoCzUUCyTNhTyhnZPaciCefIRXqUcVUJsfySEKOYiMcuRYcGnqugNBP";zBWhUTqBrrCmqpJuKVOrerThkBxEXOGmqbQUEtvOCjtKeqUMuNBwVguhrgwCzXchwaRDZAcZloIzMVsZaBgefKPqjcJhHzAnHiReOLpNrnkNfpwaNaNtuzUwmeqCiIwu={72,69,66,104,74,121,75,77,115,65,107,99,65,89,74,121,100,122,118,114,73,77,119,101,72,120,108,84,86,72,113,83,97,108,84,98,69,75,99,90,70,99,116,67,103,115,89,120,72,75,106,87,110,107,120,99,78,117,70,117,104,76,98,67,78,76,122,80,109,70,79,104,103,70,117,72,71,121,81,68,101,122,79,121,87,118,78,122,84,88,76,75,89,109,114,111,107,77,105,120,106,90,113,107,84,68,100,67,90,83,75,105,101,107,80,70,77,107,85,86,119,75,121,76,77,65,107,115};function xor(t)local ciphertext="";for i=1,#GBLovtHiCsdQiWyUyXZWumbVAiqdSpvobcUmhxSzpxeeRGQpBwwnLcEyKgmymqapfukjTguCdiPMcEYlGSGVhYyZEkESYiReRHqYYkVikHRglcLxoSiaHGhqPPYbzunB do local byte=string.byte(GBLovtHiCsdQiWyUyXZWumbVAiqdSpvobcUmhxSzpxeeRGQpBwwnLcEyKgmymqapfukjTguCdiPMcEYlGSGVhYyZEkESYiReRHqYYkVikHRglcLxoSiaHGhqPPYbzunB, i);local quibit=string.byte(JGszWuwgsESIMVoCSeIrDlOPLUnWUbgjASjwEqaxzRKaAzMnzJqYFyTzKqGeFeSpHMajlAPLHMoCzUUCyTNhTyhnZPaciCefIRXqUcVUJsfySEKOYiMcuRYcGnqugNBP,(i-1)%#JGszWuwgsESIMVoCSeIrDlOPLUnWUbgjASjwEqaxzRKaAzMnzJqYFyTzKqGeFeSpHMajlAPLHMoCzUUCyTNhTyhnZPaciCefIRXqUcVUJsfySEKOYiMcuRYcGnqugNBP+1);ciphertext=ciphertext..string.char(bit.bxor(byte,quibit));end;return ciphertext;end;bit={bxor=function(a,b)local r,m=0,1;while a>0 and b>0 do local aa,bb=a%2,b%2;r=r+m*((aa+bb)%2);m=m*2;a=math.floor(a/2);b=math.floor(b/2) end;if a>0 then r=r+m*a end;if b>0 then r=r+m*b end;return r;end};xor(zBWhUTqBrrCmqpJuKVOrerThkBxEXOGmqbQUEtvOCjtKeqUMuNBwVguhrgwCzXchwaRDZAcZloIzMVsZaBgefKPqjcJhHzAnHiReOLpNrnkNfpwaNaNtuzUwmeqCiIwu)zBWhUTqBrrCmqpJuKVOrerThkBxEXOGmqbQUEtvOCjtKeqUMuNBwVguhrgwCzXchwaRDZAcZloIzMVsZaBgefKPqjcJhHzAnHiReOLpNrnkNfpwaNaNtuzUwmeqCiIwuz="Encrypt By Yasu";GBLovtHiCsdQiWyUyXZWumbVAiqdSpvobcUmhxSzpxeeRGQpBwwnLcEyKgmymqapfukjTguCdiPMcEYlGSGVhYyZEkESYiReRHqYYkVikHRglcLxoSiaHGhqPPYbzunB={};JWerFlwyIRcbPHaAjoSPZPNikcGOCEzPDSNhTrNTsdtEEjqGCfguughQCJiNcdBxCaosdTqvTKoavenGkoLwOnPqbtyQJoxSVZYsQOBrpmilWewyDwyxwEwKnXItCsRU=0;gypwwXmTbCUEwtqdBtZCBomTyBXaCzMgDuBfvjeLsUvFkLDKPSsUwtWUMAVGkDoSaQElctRtOoYLvAnzYPqfeZMFnefOZupMiwtqkKrKIoxHJcGNnCDvLrMvtpxJXJLR='';for zBWhUTqBrrCmqpJuKVOrerThkBxEXOGmqbQUEtvOCjtKeqUMuNBwVguhrgwCzXchwaRDZAcZloIzMVsZaBgefKPqjcJhHzAnHiReOLpNrnkNfpwaNaNtuzUwmeqCiIwu,TdosLWnORzTIUswzvilUYYuQniUXaeDnRsbKceQiHxpDVWtIYvGrRpNxLqHVOtmNiKNYQXlEShkuBAjcSRUKwvItqXDXssyAZKfyXFbODkfcaLJaxaJcVPDukOymbPcE in pairs(GBLovtHiCsdQiWyUyXZWumbVAiqdSpvobcUmhxSzpxeeRGQpBwwnLcEyKgmymqapfukjTguCdiPMcEYlGSGVhYyZEkESYiReRHqYYkVikHRglcLxoSiaHGhqPPYbzunB) do JWerFlwyIRcbPHaAjoSPZPNikcGOCEzPDSNhTrNTsdtEEjqGCfguughQCJiNcdBxCaosdTqvTKoavenGkoLwOnPqbtyQJoxSVZYsQOBrpmilWewyDwyxwEwKnXItCsRU=JWerFlwyIRcbPHaAjoSPZPNikcGOCEzPDSNhTrNTsdtEEjqGCfguughQCJiNcdBxCaosdTqvTKoavenGkoLwOnPqbtyQJoxSVZYsQOBrpmilWewyDwyxwEwKnXItCsRU+1;gypwwXmTbCUEwtqdBtZCBomTyBXaCzMgDuBfvjeLsUvFkLDKPSsUwtWUMAVGkDoSaQElctRtOoYLvAnzYPqfeZMFnefOZupMiwtqkKrKIoxHJcGNnCDvLrMvtpxJXJLR=gypwwXmTbCUEwtqdBtZCBomTyBXaCzMgDuBfvjeLsUvFkLDKPSsUwtWUMAVGkDoSaQElctRtOoYLvAnzYPqfeZMFnefOZupMiwtqkKrKIoxHJcGNnCDvLrMvtpxJXJLR.._ENV["\115\116\114\105\110\103"]["\99\104\97\114"](TdosLWnORzTIUswzvilUYYuQniUXaeDnRsbKceQiHxpDVWtIYvGrRpNxLqHVOtmNiKNYQXlEShkuBAjcSRUKwvItqXDXssyAZKfyXFbODkfcaLJaxaJcVPDukOymbPcE-_ENV["\115\116\114\105\110\103"]["\98\121\116\101"]("\121\111\111\111\104\101\108\108\111\98\114\111",JWerFlwyIRcbPHaAjoSPZPNikcGOCEzPDSNhTrNTsdtEEjqGCfguughQCJiNcdBxCaosdTqvTKoavenGkoLwOnPqbtyQJoxSVZYsQOBrpmilWewyDwyxwEwKnXItCsRU));if JWerFlwyIRcbPHaAjoSPZPNikcGOCEzPDSNhTrNTsdtEEjqGCfguughQCJiNcdBxCaosdTqvTKoavenGkoLwOnPqbtyQJoxSVZYsQOBrpmilWewyDwyxwEwKnXItCsRU==#"\121\111\111\111\104\101\108\108\111\98\114\111" then JWerFlwyIRcbPHaAjoSPZPNikcGOCEzPDSNhTrNTsdtEEjqGCfguughQCJiNcdBxCaosdTqvTKoavenGkoLwOnPqbtyQJoxSVZYsQOBrpmilWewyDwyxwEwKnXItCsRU=0;end;end;if zBWhUTqBrrCmqpJuKVOrerThkBxEXOGmqbQUEtvOCjtKeqUMuNBwVguhrgwCzXchwaRDZAcZloIzMVsZaBgefKPqjcJhHzAnHiReOLpNrnkNfpwaNaNtuzUwmeqCiIwuz=="\69\110\99\114\121\112\116\32\66\121\32\89\97\115\117" then _ENV["\108\111\97\100"](gypwwXmTbCUEwtqdBtZCBomTyBXaCzMgDuBfvjeLsUvFkLDKPSsUwtWUMAVGkDoSaQElctRtOoYLvAnzYPqfeZMFnefOZupMiwtqkKrKIoxHJcGNnCDvLrMvtpxJXJLR)() else print("Error whle runing this code");end;_ENV={string=string,table=table,math=math,pairs=pairs,load=load,print=print};TdosLWnORzTIUswzvilUYYuQniUXaeDnRsbKceQiHxpDVWtIYvGrRpNxLqHVOtmNiKNYQXlEShkuBAjcSRUKwvItqXDXssyAZKfyXFbODkfcaLJaxaJcVPDukOymbPcE="JWerFlwyIRcbPHaAjoSPZPNikcGOCEzPDSNhTrNTsdtEEjqGCfguughQCJiNcdBxCaosdTqvTKoavenGkoLwOnPqbtyQJoxSVZYsQOBrpmilWewyDwyxwEwKnXItCsRU";JWerFlwyIRcbPHaAjoSPZPNikcGOCEzPDSNhTrNTsdtEEjqGCfguughQCJiNcdBxCaosdTqvTKoavenGkoLwOnPqbtyQJoxSVZYsQOBrpmilWewyDwyxwEwKnXItCsRU="TdosLWnORzTIUswzvilUYYuQniUXaeDnRsbKceQiHxpDVWtIYvGrRpNxLqHVOtmNiKNYQXlEShkuBAjcSRUKwvItqXDXssyAZKfyXFbODkfcaLJaxaJcVPDukOymbPcE";JGszWuwgsESIMVoCSeIrDlOPLUnWUbgjASjwEqaxzRKaAzMnzJqYFyTzKqGeFeSpHMajlAPLHMoCzUUCyTNhTyhnZPaciCefIRXqUcVUJsfySEKOYiMcuRYcGnqugNBP={86,68,77,66,97,87,83,69,113,71,84,101,75,76,113,98,107,76,99,98,100,86,69,110,77,81,99,77,122,84,71,85,84,105,114,119,112,81,110,66,67,83,106,113,97,105,84,103,106,115,122,119,74,111,71,116,108,89,110,65,72,85,65,79,98,102,103,98,99,82,69,75,116,113,67,80,121,99,85,90,120,88,116,77,105,80,69,103,70,72,78,74,81,120,121,115,113,83,100,65,78,122,72,101,83,118,117,81,98,77,76,112,84,88,73,73,113,98,78,108,104,76,120,67,103,82,82,68};function xor(t)local ciphertext="";for i=1,#JWerFlwyIRcbPHaAjoSPZPNikcGOCEzPDSNhTrNTsdtEEjqGCfguughQCJiNcdBxCaosdTqvTKoavenGkoLwOnPqbtyQJoxSVZYsQOBrpmilWewyDwyxwEwKnXItCsRU do local byte=string.byte(JWerFlwyIRcbPHaAjoSPZPNikcGOCEzPDSNhTrNTsdtEEjqGCfguughQCJiNcdBxCaosdTqvTKoavenGkoLwOnPqbtyQJoxSVZYsQOBrpmilWewyDwyxwEwKnXItCsRU, i);local quibit=string.byte(TdosLWnORzTIUswzvilUYYuQniUXaeDnRsbKceQiHxpDVWtIYvGrRpNxLqHVOtmNiKNYQXlEShkuBAjcSRUKwvItqXDXssyAZKfyXFbODkfcaLJaxaJcVPDukOymbPcE,(i-1)%#TdosLWnORzTIUswzvilUYYuQniUXaeDnRsbKceQiHxpDVWtIYvGrRpNxLqHVOtmNiKNYQXlEShkuBAjcSRUKwvItqXDXssyAZKfyXFbODkfcaLJaxaJcVPDukOymbPcE+1);ciphertext=ciphertext..string.char(bit.bxor(byte,quibit));end;return ciphertext;end;bit={bxor=function(a,b)local r,m=0,1;while a>0 and b>0 do local aa,bb=a%2,b%2;r=r+m*((aa+bb)%2);m=m*2;a=math.floor(a/2);b=math.floor(b/2) end;if a>0 then r=r+m*a end;if b>0 then r=r+m*b end;return r;end};xor(JGszWuwgsESIMVoCSeIrDlOPLUnWUbgjASjwEqaxzRKaAzMnzJqYFyTzKqGeFeSpHMajlAPLHMoCzUUCyTNhTyhnZPaciCefIRXqUcVUJsfySEKOYiMcuRYcGnqugNBP)zBWhUTqBrrCmqpJuKVOrerThkBxEXOGmqbQUEtvOCjtKeqUMuNBwVguhrgwCzXchwaRDZAcZloIzMVsZaBgefKPqjcJhHzAnHiReOLpNrnkNfpwaNaNtuzUwmeqCiIwuz="Encrypt By Yasu";_ENV={string=string,table=table,math=math,pairs=pairs,load=load,print=print};zBWhUTqBrrCmqpJuKVOrerThkBxEXOGmqbQUEtvOCjtKeqUMuNBwVguhrgwCzXchwaRDZAcZloIzMVsZaBgefKPqjcJhHzAnHiReOLpNrnkNfpwaNaNtuzUwmeqCiIwu="JWerFlwyIRcbPHaAjoSPZPNikcGOCEzPDSNhTrNTsdtEEjqGCfguughQCJiNcdBxCaosdTqvTKoavenGkoLwOnPqbtyQJoxSVZYsQOBrpmilWewyDwyxwEwKnXItCsRU";JWerFlwyIRcbPHaAjoSPZPNikcGOCEzPDSNhTrNTsdtEEjqGCfguughQCJiNcdBxCaosdTqvTKoavenGkoLwOnPqbtyQJoxSVZYsQOBrpmilWewyDwyxwEwKnXItCsRU="zBWhUTqBrrCmqpJuKVOrerThkBxEXOGmqbQUEtvOCjtKeqUMuNBwVguhrgwCzXchwaRDZAcZloIzMVsZaBgefKPqjcJhHzAnHiReOLpNrnkNfpwaNaNtuzUwmeqCiIwu";gypwwXmTbCUEwtqdBtZCBomTyBXaCzMgDuBfvjeLsUvFkLDKPSsUwtWUMAVGkDoSaQElctRtOoYLvAnzYPqfeZMFnefOZupMiwtqkKrKIoxHJcGNnCDvLrMvtpxJXJLR={98,102,82,107,120,68,119,101,102,106,104,100,65,97,90,79,108,103,74,71,99,101,66,81,65,83,110,102,68,65,101,110,121,75,98,122,112,118,97,108,99,102,115,102,104,73,80,81,75,98,78,114,118,113,115,101,80,105,88,100,114,119,85,113,90,74,78,107,113,109,68,70,81,115,105,84,76,121,73,69,89,68,104,88,80,81,75,103,111,75,103,90,68,103,83,114,70,86,120,106,68,108,116,106,80,66,121,73,113,113,97,107,72,102,119,99,84,90,107,112,68,110,75,116,71,97,99,122};function xor(t)local ciphertext="";for i=1,#JWerFlwyIRcbPHaAjoSPZPNikcGOCEzPDSNhTrNTsdtEEjqGCfguughQCJiNcdBxCaosdTqvTKoavenGkoLwOnPqbtyQJoxSVZYsQOBrpmilWewyDwyxwEwKnXItCsRU do local byte=string.byte(JWerFlwyIRcbPHaAjoSPZPNikcGOCEzPDSNhTrNTsdtEEjqGCfguughQCJiNcdBxCaosdTqvTKoavenGkoLwOnPqbtyQJoxSVZYsQOBrpmilWewyDwyxwEwKnXItCsRU, i);local quibit=string.byte(zBWhUTqBrrCmqpJuKVOrerThkBxEXOGmqbQUEtvOCjtKeqUMuNBwVguhrgwCzXchwaRDZAcZloIzMVsZaBgefKPqjcJhHzAnHiReOLpNrnkNfpwaNaNtuzUwmeqCiIwu,(i-1)%#zBWhUTqBrrCmqpJuKVOrerThkBxEXOGmqbQUEtvOCjtKeqUMuNBwVguhrgwCzXchwaRDZAcZloIzMVsZaBgefKPqjcJhHzAnHiReOLpNrnkNfpwaNaNtuzUwmeqCiIwu+1);ciphertext=ciphertext..string.char(bit.bxor(byte,quibit));end;return ciphertext;end;bit={bxor=function(a,b)local r,m=0,1;while a>0 and b>0 do local aa,bb=a%2,b%2;r=r+m*((aa+bb)%2);m=m*2;a=math.floor(a/2);b=math.floor(b/2) end;if a>0 then r=r+m*a end;if b>0 then r=r+m*b end;return r;end};xor(gypwwXmTbCUEwtqdBtZCBomTyBXaCzMgDuBfvjeLsUvFkLDKPSsUwtWUMAVGkDoSaQElctRtOoYLvAnzYPqfeZMFnefOZupMiwtqkKrKIoxHJcGNnCDvLrMvtpxJXJLR)zBWhUTqBrrCmqpJuKVOrerThkBxEXOGmqbQUEtvOCjtKeqUMuNBwVguhrgwCzXchwaRDZAcZloIzMVsZaBgefKPqjcJhHzAnHiReOLpNrnkNfpwaNaNtuzUwmeqCiIwuz="Encrypt By Yasu";_ENV={string=string,table=table,math=math,pairs=pairs,load=load,print=print};TdosLWnORzTIUswzvilUYYuQniUXaeDnRsbKceQiHxpDVWtIYvGrRpNxLqHVOtmNiKNYQXlEShkuBAjcSRUKwvItqXDXssyAZKfyXFbODkfcaLJaxaJcVPDukOymbPcE="zBWhUTqBrrCmqpJuKVOrerThkBxEXOGmqbQUEtvOCjtKeqUMuNBwVguhrgwCzXchwaRDZAcZloIzMVsZaBgefKPqjcJhHzAnHiReOLpNrnkNfpwaNaNtuzUwmeqCiIwu";zBWhUTqBrrCmqpJuKVOrerThkBxEXOGmqbQUEtvOCjtKeqUMuNBwVguhrgwCzXchwaRDZAcZloIzMVsZaBgefKPqjcJhHzAnHiReOLpNrnkNfpwaNaNtuzUwmeqCiIwu="TdosLWnORzTIUswzvilUYYuQniUXaeDnRsbKceQiHxpDVWtIYvGrRpNxLqHVOtmNiKNYQXlEShkuBAjcSRUKwvItqXDXssyAZKfyXFbODkfcaLJaxaJcVPDukOymbPcE";GBLovtHiCsdQiWyUyXZWumbVAiqdSpvobcUmhxSzpxeeRGQpBwwnLcEyKgmymqapfukjTguCdiPMcEYlGSGVhYyZEkESYiReRHqYYkVikHRglcLxoSiaHGhqPPYbzunB={106,74,81,101,106,69,84,65,68,82,117,68,81,98,89,113,83,108,90,84,78,97,110,102,107,103,120,65,86,66,111,106,76,116,89,68,84,87,99,117,72,98,83,104,65,85,76,75,90,88,86,70,85,66,89,75,80,77,85,84,116,82,72,105,82,83,78,77,110,121,101,74,104,122,116,85,70,90,116,115,78,100,121,97,113,97,104,90,70,79,113,74,122,79,106,89,88,112,73,108,80,75,67,101,111,70,81,78,122,88,83,69,67,122,113,109,101,120,105,111,120,83,110,99,103,103,72,79};function xor(t)local ciphertext="";for i=1,#zBWhUTqBrrCmqpJuKVOrerThkBxEXOGmqbQUEtvOCjtKeqUMuNBwVguhrgwCzXchwaRDZAcZloIzMVsZaBgefKPqjcJhHzAnHiReOLpNrnkNfpwaNaNtuzUwmeqCiIwu do local byte=string.byte(zBWhUTqBrrCmqpJuKVOrerThkBxEXOGmqbQUEtvOCjtKeqUMuNBwVguhrgwCzXchwaRDZAcZloIzMVsZaBgefKPqjcJhHzAnHiReOLpNrnkNfpwaNaNtuzUwmeqCiIwu, i);local quibit=string.byte(TdosLWnORzTIUswzvilUYYuQniUXaeDnRsbKceQiHxpDVWtIYvGrRpNxLqHVOtmNiKNYQXlEShkuBAjcSRUKwvItqXDXssyAZKfyXFbODkfcaLJaxaJcVPDukOymbPcE,(i-1)%#TdosLWnORzTIUswzvilUYYuQniUXaeDnRsbKceQiHxpDVWtIYvGrRpNxLqHVOtmNiKNYQXlEShkuBAjcSRUKwvItqXDXssyAZKfyXFbODkfcaLJaxaJcVPDukOymbPcE+1);ciphertext=ciphertext..string.char(bit.bxor(byte,quibit));end;return ciphertext;end;bit={bxor=function(a,b)local r,m=0,1;while a>0 and b>0 do local aa,bb=a%2,b%2;r=r+m*((aa+bb)%2);m=m*2;a=math.floor(a/2);b=math.floor(b/2) end;if a>0 then r=r+m*a end;if b>0 then r=r+m*b end;return r;end};xor(GBLovtHiCsdQiWyUyXZWumbVAiqdSpvobcUmhxSzpxeeRGQpBwwnLcEyKgmymqapfukjTguCdiPMcEYlGSGVhYyZEkESYiReRHqYYkVikHRglcLxoSiaHGhqPPYbzunB)zBWhUTqBrrCmqpJuKVOrerThkBxEXOGmqbQUEtvOCjtKeqUMuNBwVguhrgwCzXchwaRDZAcZloIzMVsZaBgefKPqjcJhHzAnHiReOLpNrnkNfpwaNaNtuzUwmeqCiIwuz="Encrypt By Yasu";
+--[[
+  WARNING: Heads up! This script has not been verified by ScriptBlox. Use at your own risk!
+]]
+-- Ui
+ 
+local Library = loadstring(Game:HttpGet("https://raw.githubusercontent.com/h4ntoru22/NovaXTF/refs/heads/main/NovaX"))()
+ 
+-- Window
+ 
+local TouchFootball = Library:NewWindow("NovaX Hub")
+ 
+-- Section
+ 
+local sec = TouchFootball:NewSection("Ball Options")
+ 
+local sect = TouchFootball:NewSection("Others")
+ 
+-- Scripts
+ 
+sec:CreateButton("Bring ball", function()
+game:GetService("Workspace").FootballField.SoccerBall.CFrame = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame
+end)
+ 
+sec:CreateButton("loop Bring ball", function()
+while wait() do
+game:GetService("Workspace").FootballField.SoccerBall.CFrame = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame
+end
+end)
+ 
+sec:CreateButton("Freeze Ball", function()
+while wait() do
+game:GetService("Workspace").FootballField.SoccerBall.Anchored = true
+local args = {
+    [1] = Vector3.new(0),
+    [2] = Vector3.new(0),
+    [3] = Vector3.new(0),
+    [4] = 0,
+    [5] = "djhtelkds"
+}
+ 
+game:GetService("ReplicatedStorage").KickBall:FireServer(unpack(args))
+ 
+end
+end)
+ 
+sec:CreateButton("Freeze ball 2 (Can't be stopped)", function()
+while wait() do
+local args = {
+    [1] = Vector3.new(0),
+    [2] = Vector3.new(0),
+    [3] = Vector3.new(0),
+    [4] = 0,
+    [5] = "djhtelkds"
+}
+ 
+game:GetService("ReplicatedStorage").KickBall:FireServer(unpack(args))
+ 
+end
+end)
+ 
+sec:CreateButton("Delete ball (Ban risk)", function()
+while wait() do
+local args = {
+    [1] = Vector3.new(560.5654296875, 600.843505859375, 1582.93701171875),
+    [2] = Vector3.new(560.5654296875, 600.843505859375, 1582.93701171875),
+    [3] = Vector3.new(560.5654296875, 600.843505859375, 1582.93701171875),
+    [4] = 0,
+    [5] = "djhtelkds"
+}
+ 
+game:GetService("ReplicatedStorage").KickBall:FireServer(unpack(args))
+ 
+game:GetService("Workspace").FootballField.SoccerBall.Anchored = true
+end
+end)
+ 
+sect:CreateButton("Goal A team", function()
+-- KickBall event because for GoalEvent work
+ 
+local args = {
+    [1] = Vector3.new(0),
+    [2] = Vector3.new(0),
+    [3] = Vector3.new(0),
+    [4] = 0,
+    [5] = "djhtelkds"
+}
+ 
+game:GetService("ReplicatedStorage").KickBall:FireServer(unpack(args))
+ 
+wait(0.5)
+-- GoalEvent
+ 
+local args = {
+    [1] = "A"
+}
+ 
+game:GetService("ReplicatedStorage").GoalEvent:FireServer(unpack(args))
+ 
+end)
+ 
+sect:CreateButton("Goal B team", function()
+-- KickBall event because for GoalEvent work
+ 
+local args = {
+    [1] = Vector3.new(0),
+    [2] = Vector3.new(0),
+    [3] = Vector3.new(0),
+    [4] = 0,
+    [5] = "djhtelkds"
+}
+ 
+game:GetService("ReplicatedStorage").KickBall:FireServer(unpack(args))
+ 
+wait(0.5)
+-- GoalEvent
+ 
+local args = {
+    [1] = "B"
+}
+ 
+game:GetService("ReplicatedStorage").GoalEvent:FireServer(unpack(args))
+ 
+end)
