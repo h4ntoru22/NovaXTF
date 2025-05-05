@@ -1,0 +1,123 @@
+--[[
+  WARNING: Heads up! This script has not been verified by ScriptBlox. Use at your own risk!
+]]
+-- Ui
+ 
+local Library = loadstring(Game:HttpGet("https://raw.githubusercontent.com/bloodball/-back-ups-for-libs/main/wizard"))()
+ 
+-- Window
+ 
+local TouchFootball = Library:NewWindow("NovaX Hub")
+ 
+-- Section
+ 
+local sec = TouchFootball:NewSection("Ball Options")
+ 
+local sect = TouchFootball:NewSection("Others")
+ 
+-- Scripts
+ 
+sec:CreateButton("Bring ball", function()
+game:GetService("Workspace").FootballField.SoccerBall.CFrame = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame
+end)
+ 
+sec:CreateButton("loop Bring ball", function()
+while wait() do
+game:GetService("Workspace").FootballField.SoccerBall.CFrame = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame
+end
+end)
+ 
+sec:CreateButton("Freeze Ball", function()
+while wait() do
+game:GetService("Workspace").FootballField.SoccerBall.Anchored = true
+local args = {
+    [1] = Vector3.new(0),
+    [2] = Vector3.new(0),
+    [3] = Vector3.new(0),
+    [4] = 0,
+    [5] = "djhtelkds"
+}
+ 
+game:GetService("ReplicatedStorage").KickBall:FireServer(unpack(args))
+ 
+end
+end)
+ 
+sec:CreateButton("Freeze ball 2 (Can't be stopped)", function()
+while wait() do
+local args = {
+    [1] = Vector3.new(0),
+    [2] = Vector3.new(0),
+    [3] = Vector3.new(0),
+    [4] = 0,
+    [5] = "djhtelkds"
+}
+ 
+game:GetService("ReplicatedStorage").KickBall:FireServer(unpack(args))
+ 
+end
+end)
+ 
+sec:CreateButton("Delete ball (Ban risk)", function()
+while wait() do
+local args = {
+    [1] = Vector3.new(560.5654296875, 600.843505859375, 1582.93701171875),
+    [2] = Vector3.new(560.5654296875, 600.843505859375, 1582.93701171875),
+    [3] = Vector3.new(560.5654296875, 600.843505859375, 1582.93701171875),
+    [4] = 0,
+    [5] = "djhtelkds"
+}
+ 
+game:GetService("ReplicatedStorage").KickBall:FireServer(unpack(args))
+ 
+game:GetService("Workspace").FootballField.SoccerBall.Anchored = true
+end
+end)
+ 
+sect:CreateButton("Goal A team", function()
+-- KickBall event because for GoalEvent work
+ 
+local args = {
+    [1] = Vector3.new(0),
+    [2] = Vector3.new(0),
+    [3] = Vector3.new(0),
+    [4] = 0,
+    [5] = "djhtelkds"
+}
+ 
+game:GetService("ReplicatedStorage").KickBall:FireServer(unpack(args))
+ 
+wait(0.5)
+-- GoalEvent
+ 
+local args = {
+    [1] = "A"
+}
+ 
+game:GetService("ReplicatedStorage").GoalEvent:FireServer(unpack(args))
+ 
+end)
+ 
+sect:CreateButton("Goal B team", function()
+-- KickBall event because for GoalEvent work
+ 
+local args = {
+    [1] = Vector3.new(0),
+    [2] = Vector3.new(0),
+    [3] = Vector3.new(0),
+    [4] = 0,
+    [5] = "djhtelkds"
+}
+ 
+game:GetService("ReplicatedStorage").KickBall:FireServer(unpack(args))
+ 
+wait(0.5)
+-- GoalEvent
+ 
+local args = {
+    [1] = "B"
+}
+ 
+game:GetService("ReplicatedStorage").GoalEvent:FireServer(unpack(args))
+ 
+end)
